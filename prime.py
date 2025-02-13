@@ -1,1 +1,2 @@
 print("prime")
+print("Hey")
